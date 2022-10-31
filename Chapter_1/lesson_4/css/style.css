@@ -1,0 +1,32 @@
+/* .parent {
+  background-color: red;
+  display: flex;
+  height: 400px; */
+/* justify-content: space-between; */
+/* align-items: center; */
+/* flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+/* flex-direction: row-reverse; */
+/* flex-direction: row-reverse;
+  justify-content: end;
+  align-items: flex-end; */
+/* flex-wrap: wrap; */
+/* } */
+/* .child {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  color: white;
+  font-size: 30px;
+  margin: 10px; */
+/* } */
+/* .second {
+  order: -1;
+}
+.first {
+  order: 1;
+}
+.third {
+  order: -2;
+} */

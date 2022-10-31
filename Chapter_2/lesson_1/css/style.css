@@ -1,0 +1,46 @@
+.card {
+  width: 170px;
+  margin-bottom: 10px;
+}
+
+.avatar-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.avatar-info__avatar {
+  width: 32px;
+  height: 32px;
+}
+
+.avatar-info_username {
+  font-weight: 700;
+  margin-left: 10px;
+}
+
+.card__iso-info {
+  background-color: #e6e3f8;
+  border-radius: 16px;
+  position: relative;
+}
+
+.iso-info__image img {
+  width: 100%;
+  border-radius: 16px;
+}
+
+.iso-info__title {
+  padding: 20px 12px 12px;
+  margin: 0;
+}
+
+.iso-info__icon {
+  position: absolute;
+  color: #4e15f4;
+  top: 68%;
+  background-color: white;
+  left: 10px;
+  padding: 5px 10px;
+  border-radius: 15px;
+}
